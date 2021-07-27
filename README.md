@@ -23,8 +23,8 @@ The Notebook 2 is for the Exploratory Data Analysis. It includes the :
 - Bivariate Analysis    between :
   - two quantitative variables
   - one quantitative and one categorical variable
-  - two categorical variables with 
- - and finally, ACP with some numeriacal variables.
+  - two categorical variables
+ - and finally, ACP with some numerical variables.
 
 The pdf is the final presentation with some visualizations (in french).
 The important idea is that we have to pay attention between the good scores A, B, C for exemple there is much more low fat product in the category C than A. 
