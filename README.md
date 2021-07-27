@@ -16,11 +16,11 @@ The Notebook 1 is for the dataprocessing. It includes the :
   - IterativeImputer for numerical data
 -Outliers (this step has to be before the NaN Imputation)
 -NaN Imputation : 
-  - SimpleImputer for categorical data brands_tags
+ - SimpleImputer for categorical data brands_tags
 -NaN Imputation :
-   -linear Regression for the nutriscore_score
+  -linear Regression for the nutriscore_score
 -NaN Imputation :
-   -with def nutrigrade_food(score) for the nutriscore_grade
+  -with def nutrigrade_food(score) for the nutriscore_grade
    
 - finally distribution ckecking before and after Imputation
 
