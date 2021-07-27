@@ -4,22 +4,17 @@ Designing an application for public health
 
 The Notebook 1 is for the dataprocessing. It includes the :
 
--Features Selection
--Drop Duplicated rows on some columns
--Data Processing on columns values
--Sampling
--NaN Imputation :
-  -IterativeImputer for numerical data
-  
--Outliers (this step has to be before the NaN Imputation)
+- Features Selection
+- Drop Duplicated rows on some columns
+- Data Processing on columns values
+- Sampling
+- NaN Imputation
 
--NaN Imputation :
+  - IterativeImputer for numerical data
+  - Outliers (this step has to be before the NaN Imputation)
   - SimpleImputer for categorical data brands_tags
-
--NaN Imputation : \
-  -linear Regression for the nutriscore_score \
-  -with def nutrigrade_food(score) for the nutriscore_grade 
-
+  - linear Regression for the nutriscore_score
+  - def nutrigrade_food(score) for the nutriscore_grade 
 - finally distribution ckecking before and after Imputation
 
 The Notebook 2 is for the Exploratory Data Analysis. It includes the :
