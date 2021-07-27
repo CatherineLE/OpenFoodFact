@@ -10,7 +10,9 @@ The Notebook 1 is for the dataprocessing. It includes the :
 -Sampling
 -NaN Imputation :
   - IterativeImputer for numerical data
+  
 -Outliers (this step has to be before the NaN Imputation)
+
 -NaN Imputation :
   - SimpleImputer for categorical data brands_tags
 -NaN Imputation :
