@@ -15,10 +15,13 @@ The Notebook 1 is for the dataprocessing. It includes the :
 
 -NaN Imputation :
   - SimpleImputer for categorical data brands_tags
+
 -NaN Imputation :
   -linear Regression for the nutriscore_score
+
 -NaN Imputation :
   -with def nutrigrade_food(score) for the nutriscore_grade 
+
 - finally distribution ckecking before and after Imputation
 
 The Notebook 2 is for the Exploratory Data Analysis. It includes the :
