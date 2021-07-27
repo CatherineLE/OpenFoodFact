@@ -28,5 +28,5 @@ The Notebook 2 is for the Exploratory Data Analysis. It includes the :
 
 The pdf is the final presentation with some visualizations (in french).
 The important idea is that we have to pay attention between the good scores A, B, C for exemple there is much more low fat product in the category C than A. 
-The mean value of carbohydrates_100g is higher for the cateroy A than B and C. And if we see the category E products, half of them are less 50g / 100g in carbohydrates. 
+The mean value of carbohydrates_100g is higher for the cateroy A than B and C. And if we see the category E products, half of them are less 50g / 100g in carbohydrates.  So The application would be a simple vizualizations of the products with some filters like the carbonhydrates rate, the fat rate, the nutriscore also so we can chose our product based on our priorities.
     
