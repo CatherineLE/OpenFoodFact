@@ -9,7 +9,7 @@ The Notebook 1 is for the dataprocessing. It includes the :
 -Data Processing on columns values
 -Sampling
 -NaN Imputation :
-  - IterativeImputer for numerical data
+  -IterativeImputer for numerical data
   
 -Outliers (this step has to be before the NaN Imputation)
 
