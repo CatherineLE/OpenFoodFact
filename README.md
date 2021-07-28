@@ -17,7 +17,7 @@ The Notebook 1 is for the dataprocessing. It includes the :
   - def nutrigrade_food(score) for the nutriscore_grade 
 - finally distribution ckecking before and after Imputation
 
-The Notebook 2 is for the Exploratory Data Analysis. It includes the :
+The Notebook 2 is for the Nutriscore Exploratory Data Analysis. It includes the :
 
 - Univariate Anaysis
 - Bivariate Analysis    between :
